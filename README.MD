@@ -26,3 +26,9 @@ The restored database can be accessed via 127.0.0.1 using the original credentia
 ```
 mysql -u user -h 127.0.0.1
 ```
+
+## References
+- [Open Telekom Cloud](https://www.open-telekom-cloud.com/)
+- [RDS Backup restoration guide](https://docs.otc.t-systems.com/relational-database-service/umn/working_with_rds_for_mysql/backups_and_restorations/restoring_from_backup_files_to_a_self-built_mysql_database.html)
+- [Percona XtraBackup](https://www.percona.com/mysql/software/percona-xtrabackup)
+- [Percona XtraBackup compress qpress](https://docs.percona.com/percona-xtrabackup/2.4/backup_scenarios/compressed_backup.html)
